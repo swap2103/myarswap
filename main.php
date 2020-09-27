@@ -1,3 +1,3 @@
 <?php
-include_once("aframe2.html");
+header('Location: /aframe2.html');
 ?>
