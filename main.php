@@ -1,1 +1,1 @@
-<?php include_once('aframe2.html'); ?>
+<?php echo "Hello"; ?>
